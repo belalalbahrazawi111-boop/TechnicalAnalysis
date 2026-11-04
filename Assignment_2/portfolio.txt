@@ -1,0 +1,4 @@
+# Sample coursework portfolio; revise these tickers if required.
+AAPL
+MSFT
+NVDA
