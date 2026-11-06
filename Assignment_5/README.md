@@ -1,7 +1,7 @@
 # BDA400 Assignment 5 - Technical Analysis Using R
 
 **Student:** Belal Al-bahrazawi  
-**Repository:** https://github.com/belalalbahrazawi111-boop/Assignment-5  
+**Repository:** (https://github.com/belalalbahrazawi111-boop/TechnicalAnalysis/tree/main/Assignment_5)
 **Portfolio tickers:** AAPL, MSFT, NVDA
 
 ## Contents
